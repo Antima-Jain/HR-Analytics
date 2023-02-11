@@ -1,0 +1,40 @@
+employee_id,employee_name,manager_name,emp_salary,manager_salary
+101,"Neena Kochhar","Steven King",17000.00,24000.00
+102,"Lex De Haan","Steven King",17000.00,24000.00
+103,"Alexander Hunold","Lex De Haan",9000.00,17000.00
+104,"Bruce Ernst","Alexander Hunold",6000.00,9000.00
+105,"David Austin","Alexander Hunold",4800.00,9000.00
+106,"Valli Pataballa","Alexander Hunold",4800.00,9000.00
+107,"Diana Lorentz","Alexander Hunold",4200.00,9000.00
+108,"Nancy Greenberg","Neena Kochhar",12000.00,17000.00
+109,"Daniel Faviet","Nancy Greenberg",9000.00,12000.00
+110,"John Chen","Nancy Greenberg",8200.00,12000.00
+111,"Ismael Sciarra","Nancy Greenberg",7700.00,12000.00
+112,"Jose Manuel Urman","Nancy Greenberg",7800.00,12000.00
+113,"Luis Popp","Nancy Greenberg",6900.00,12000.00
+114,"Den Raphaely","Steven King",11000.00,24000.00
+115,"Alexander Khoo","Den Raphaely",3100.00,11000.00
+116,"Shelli Baida","Den Raphaely",2900.00,11000.00
+117,"Sigal Tobias","Den Raphaely",2800.00,11000.00
+118,"Guy Himuro","Den Raphaely",2600.00,11000.00
+119,"Karen Colmenares","Den Raphaely",2500.00,11000.00
+120,"Matthew Weiss","Steven King",8000.00,24000.00
+121,"Adam Fripp","Steven King",8200.00,24000.00
+122,"Payam Kaufling","Steven King",7900.00,24000.00
+123,"Shanta Vollman","Steven King",6500.00,24000.00
+126,"Irene Mikkilineni","Matthew Weiss",2700.00,8000.00
+145,"John Russell","Steven King",14000.00,24000.00
+146,"Karen Partners","Steven King",13500.00,24000.00
+176,"Jonathon Taylor","Steven King",8600.00,24000.00
+177,"Jack Livingston","Steven King",8400.00,24000.00
+178,"Kimberely Grant","Steven King",7000.00,24000.00
+179,"Charles Johnson","Steven King",6200.00,24000.00
+192,"Sarah Bell","Shanta Vollman",4000.00,6500.00
+193,"Britney Everett","Shanta Vollman",3900.00,6500.00
+200,"Jennifer Whalen","Neena Kochhar",4400.00,17000.00
+201,"Michael Hartstein","Steven King",13000.00,24000.00
+202,"Pat Fay","Michael Hartstein",6000.00,13000.00
+203,"Susan Mavris","Neena Kochhar",6500.00,17000.00
+204,"Hermann Baer","Neena Kochhar",10000.00,17000.00
+205,"Shelley Higgins","Neena Kochhar",12000.00,17000.00
+206,"William Gietz","Shelley Higgins",8300.00,12000.00

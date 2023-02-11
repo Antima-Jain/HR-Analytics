@@ -1,0 +1,18 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+100,Steven,King,steven.king@sqltutorial.org,515-123-4567,1987-06-17,4,24000.00,NULL,9
+101,Neena,Kochhar,neena.kochhar@sqltutorial.org,515-123-4568,1989-09-21,5,17000.00,100,9
+102,Lex,"De Haan","lex.de haan@sqltutorial.org",515-123-4569,1993-01-13,5,17000.00,100,9
+145,John,Russell,john.russell@sqltutorial.org,NULL,1996-10-01,15,14000.00,100,8
+146,Karen,Partners,karen.partners@sqltutorial.org,NULL,1997-01-05,15,13500.00,100,8
+201,Michael,Hartstein,michael.hartstein@sqltutorial.org,515-123-5555,1996-02-17,10,13000.00,100,2
+108,Nancy,Greenberg,nancy.greenberg@sqltutorial.org,515-124-4569,1994-08-17,7,12000.00,101,10
+205,Shelley,Higgins,shelley.higgins@sqltutorial.org,515-123-8080,1994-06-07,2,12000.00,101,11
+114,Den,Raphaely,den.raphaely@sqltutorial.org,515-127-4561,1994-12-07,14,11000.00,100,3
+204,Hermann,Baer,hermann.baer@sqltutorial.org,515-123-8888,1994-06-07,12,10000.00,101,7
+103,Alexander,Hunold,alexander.hunold@sqltutorial.org,590-423-4567,1990-01-03,9,9000.00,102,6
+109,Daniel,Faviet,daniel.faviet@sqltutorial.org,515-124-4169,1994-08-16,6,9000.00,108,10
+176,Jonathon,Taylor,jonathon.taylor@sqltutorial.org,NULL,1998-03-24,16,8600.00,100,8
+177,Jack,Livingston,jack.livingston@sqltutorial.org,NULL,1998-04-23,16,8400.00,100,8
+206,William,Gietz,william.gietz@sqltutorial.org,515-123-8181,1994-06-07,1,8300.00,205,11
+110,John,Chen,john.chen@sqltutorial.org,515-124-4269,1997-09-28,6,8200.00,108,10
+121,Adam,Fripp,adam.fripp@sqltutorial.org,650-123-2234,1997-04-10,19,8200.00,100,5
